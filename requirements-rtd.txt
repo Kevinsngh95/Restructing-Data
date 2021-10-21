@@ -1,7 +1,7 @@
 alabaster==0.7.10
 argh==0.26.2
 attrs==17.4.0
-Babel==2.5.3
+Babel==2.9.1
 backports-abc==0.5
 boltons==19.3.0
 certifi==2018.11.29
